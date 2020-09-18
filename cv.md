@@ -9,5 +9,6 @@ Tel: 8 (913) 890-11-31
   1. CSS basics
   2. HTML basics
   3. JS basics
+
 # 5. Work experience:
 I have been working for 3 years as a tester at Sberbank.
